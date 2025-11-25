@@ -1,0 +1,7 @@
+# example/nodejs/.dockerignore
+*.log
+target
+.git
+.idea
+.vscode
+

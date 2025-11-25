@@ -1,0 +1,7 @@
+# example/python/.dockerignore
+*.log
+target
+.git
+.idea
+.vscode
+
