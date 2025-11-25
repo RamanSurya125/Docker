@@ -1,0 +1,7 @@
+# example/java/.dockerignore
+*.log
+target
+.git
+.idea
+.vscode
+
